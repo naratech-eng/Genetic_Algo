@@ -1,9 +1,3 @@
-* Student Details: 
-
-Name: Sanjeewa Narayana
-Student ID: 1075602
-Course: CIS4780. 
-
 ## install Box2D
 
 * Task 1-3:
